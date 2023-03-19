@@ -1,19 +1,19 @@
 # SkInspection
 Skin cancer is considered as one of the most dangerous types of cancers.  
 
-Recognizing the type of skin cancer automatically from the images can assist in quick diagnosis and enhanced accuracy saving valuable time.  
+Recognizing the type of skin cancer automatically from the images can assist in quick diagnosis and enhanced accuracy, saving valuable time.  
 
-The objective of this project is to deploy a **deep learning** based model to an android application, in which the main goal will be to develop a framework to detect 7 types of different skin cancers.  
+The objective of this project is to deploy a **deep learning** based model to an android application, to detect 7 types of different skin cancers.  
 
 The android app is developed using **Java** in Android Studio.  
 
-The user interface of the application consist of login and registration screens. The data entered during registration is stored in the **SQLite** database.  
+The user interface of the application consists of login and registration screens. The data entered during registration is stored in the **SQLite** database.  
 
 ![WhatsApp Image 2023-03-19 at 2 43 11 PM (1)](https://user-images.githubusercontent.com/89999331/226170010-45ce2b35-d7d8-436e-a041-9ff19c65648a.jpeg)  &nbsp; &nbsp;
 &nbsp; 
 ![WhatsApp Image 2023-03-19 at 2 43 11 PM](https://user-images.githubusercontent.com/89999331/226170063-07154276-e740-49aa-9c61-e37ac0b88e88.jpeg)  
   
-The Home screen displayes the following tiles:  
+The Home screen displays the following tiles:  
   
 ![WhatsApp Image 2023-03-19 at 2 43 12 PM](https://user-images.githubusercontent.com/89999331/226170503-603869cb-4783-4f0e-86cd-beb19a37e157.jpeg)  
 
@@ -25,7 +25,7 @@ The Home screen displayes the following tiles:
   
   ![WhatsApp Image 2023-03-19 at 2 43 13 PM (1)](https://user-images.githubusercontent.com/89999331/226170642-3c46b507-e0c3-4cc3-a8b9-0fe6ff131373.jpeg)  
   
-* Find Hospital: Tracks the user's location information and recommends the skin cancer treatment options avaliable near by.  
+* Find Hospital: Tracks the user's location information and recommends the skin cancer treatment options available nearby.  
   
   ![WhatsApp Image 2023-03-19 at 2 43 14 PM](https://user-images.githubusercontent.com/89999331/226170742-6dbad45c-2d8c-4e96-b36e-511d9431c49f.jpeg)  &nbsp; &nbsp;
   &nbsp; ![WhatsApp Image 2023-03-19 at 2 43 14 PM (1)](https://user-images.githubusercontent.com/89999331/226170755-5491640a-9491-4bae-a15b-3b2b103c47c6.jpeg)  
