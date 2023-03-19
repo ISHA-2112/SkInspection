@@ -3,7 +3,7 @@ Skin cancer is considered as one of the most dangerous types of cancers.
 
 Recognizing the type of skin cancer automatically from the images can assist in quick diagnosis and enhanced accuracy saving valuable time.  
 
-The objective of this project is to create an **deep learning** based app, in which the main goal will be to develop a framework to detect 7 types of different skin cancers.  
+The objective of this project is to deploy a **deep learning** based model to an android application, in which the main goal will be to develop a framework to detect 7 types of different skin cancers.  
 
 The android app is developed using **Java** in Android Studio.  
 
