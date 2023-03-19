@@ -1,4 +1,4 @@
-# SkINspection
+# SkInspection
 Skin cancer is considered as one of the most dangerous types of cancers.  
 
 Recognizing the type of skin cancer automatically from the images can assist in quick diagnosis and enhanced accuracy saving valuable time.  
