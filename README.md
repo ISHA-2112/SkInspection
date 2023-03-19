@@ -17,10 +17,9 @@ The Home screen displayes the following tiles:
   
 ![WhatsApp Image 2023-03-19 at 2 43 12 PM](https://user-images.githubusercontent.com/89999331/226170503-603869cb-4783-4f0e-86cd-beb19a37e157.jpeg)  
 
-* Test for Cancer: Given an input image, the type of skin cancer is displayed on the screen. 
+* Test for Cancer: Given an input image, the type of skin cancer is displayed on the screen.  
   
-  
- ![WhatsApp Image 2023-03-19 at 2 43 13 PM](https://user-images.githubusercontent.com/89999331/226170592-74341c60-3df4-4d27-b739-857e1c527496.jpeg) 
+  ![WhatsApp Image 2023-03-19 at 2 43 13 PM](https://user-images.githubusercontent.com/89999331/226170592-74341c60-3df4-4d27-b739-857e1c527496.jpeg) 
  
 * Medicine Info: Loads the web page of National Cancer Institute (NCI) a part of National Institutes of Health (NIH).  
   
